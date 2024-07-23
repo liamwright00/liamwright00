@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Liam 👋
+
+<a href="https://www.linkedin.com/in/liamganci/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a
+
 
 <!--
 **liamwright00/liamwright00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
