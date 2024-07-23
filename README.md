@@ -2,6 +2,15 @@
 
 <a href="https://www.linkedin.com/in/liamganci/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a recent graduate with a profound interest in technology.
+## Objective
+
+My journey in 'Law and Tech' studies in the University of Padua has led me to develop a passion for cybersecurity and I am extremely eager to focus my energy on this field. My goal would be to land a job in cybersecurity!
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+
 
 <!--
 **liamwright00/liamwright00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
