@@ -1,7 +1,7 @@
 ## Hi there, I'm Liam 👋
 
 <a href="https://www.linkedin.com/in/liamganci/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@1liamwright00"><img src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" /></a>
+<a href="https://medium.com/@1liamwright00"><img src="https://logowik.com/content/uploads/images/medium4864.jpg" /></a>
 
 I am a recent graduate with a profound interest in technology.
 ## Objective
