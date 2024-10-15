@@ -7,7 +7,6 @@ I am a recent graduate with a profound interest in technology.
 
 My journey in 'Law and Tech' studies in the University of Padua has led me to develop a passion for cybersecurity and I am extremely eager to focus my energy on this field. My goal would be to land a job in cybersecurity!
 
-### Skills
 
 
 
