@@ -1,7 +1,11 @@
 ## Hi there, I'm Liam 👋
 
-<a href="https://www.linkedin.com/in/liamganci/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" /></a>
-<a href="https://medium.com/@1liamwright00"><img src="https://freelogopng.com/images/all_img/1679302694Medium-Logo-PNG.png" /></a>
+<a href="https://www.linkedin.com/in/liamganci/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="30" height="30" />
+</a>
+<a href="https://medium.com/@1liamwright00">
+    <img src="https://freelogopng.com/images/all_img/1679302694Medium-Logo-PNG.png" width="30" height="30" />
+</a>
 
 I am a recent graduate with a profound interest in technology.
 ## Objective
